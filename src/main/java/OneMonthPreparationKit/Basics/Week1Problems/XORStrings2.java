@@ -1,4 +1,4 @@
-package Arrays.Basics;
+package OneMonthPreparationKit.Basics.Week1Problems;
 
 import java.util.Scanner;
 

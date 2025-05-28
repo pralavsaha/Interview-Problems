@@ -1,4 +1,4 @@
-package Arrays.Basics.Week1Mock;
+package OneMonthPreparationKit.Basics.Week1Mock;
 
 import java.util.Collections;
 import java.util.List;

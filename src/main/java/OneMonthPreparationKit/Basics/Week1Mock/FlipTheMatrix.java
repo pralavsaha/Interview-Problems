@@ -1,10 +1,10 @@
-package Arrays.Basics.Week1Mock;
+package OneMonthPreparationKit.Basics.Week1Mock;
 import java.util.*;
 
 public class FlipTheMatrix {
 
     public static int flippingMatrix(List<List<Integer>> matrix) {
-        int n = matrix.size() / 2; // since it's a 2n x 2n matrix
+        int n = matrix.size() / 2;
         int maxSum = 0;
 
         for (int i = 0; i < n; i++) {
